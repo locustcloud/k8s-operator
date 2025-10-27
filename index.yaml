@@ -3,6 +3,18 @@ entries:
   locust-operator:
   - apiVersion: v2
     appVersion: 0.1.1
+    created: "2025-10-27T15:37:56.910541493Z"
+    description: Locust Operator Helm Chart for managing distributed test runs in
+      Kubernetes
+    digest: dce21274e5eb5a20a05bb98cd1391d4fede2c6dc627a120469d5317f954fee51
+    icon: https://www.locust.cloud/logo-stacked.png
+    name: locust-operator
+    type: application
+    urls:
+    - locust-operator-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 0.1.1
     created: "2025-10-27T15:31:30.077580613Z"
     description: Locust Operator Helm Chart for managing distributed test runs in
       Kubernetes
@@ -25,4 +37,4 @@ entries:
     urls:
     - locust-operator-0.1.2.tgz
     version: 0.1.2
-generated: "2025-10-27T15:31:30.077588081Z"
+generated: "2025-10-27T15:37:56.910553194Z"
